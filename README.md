@@ -16,12 +16,11 @@ This repository contains my coursework for the **Network Dynamics and Learning**
 
 Each homework includes:
 - **Mathematical formulations**
-- **Python/MATLAB implementations**
+- **Jupyter Notebook implementations**
 - **Lab reports with analysis and visualizations**
 
 ## 🚀 Technologies Used
 - Python (`NumPy`, `SciPy`, `Matplotlib`, `NetworkX`, `CVXPY`)
-- MATLAB (for specific simulations)
 - LaTeX (for report writing)
 
 Feel free to explore, contribute, or provide feedback! 😊

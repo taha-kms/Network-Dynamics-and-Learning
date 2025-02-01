@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ## File Structure
-
+```bash
 homework1/
 │── ex1/                    # Exercise 1 solutions and code
 │── ex2/                    # Exercise 2 solutions and code
@@ -31,3 +31,4 @@ homework1/
 |── hw1_en_2024 (33806901).PDF
 │── requirements.txt        # Dependencies
 │── README.md               # Project documentation
+```

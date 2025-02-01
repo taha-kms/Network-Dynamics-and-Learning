@@ -28,7 +28,7 @@ homework1/
 │── ex3/                    # Exercise 3 solutions and code
 │── data/                   # Data files (traffic.mat, capacities.mat, etc.)
 │── homework1_report.pdf    # The report file
-|── hw1_en_2024 (33806901).PDF
+│── hw1_en_2024 (33806901).PDF
 │── requirements.txt        # Dependencies
 │── README.md               # Project documentation
 ```
